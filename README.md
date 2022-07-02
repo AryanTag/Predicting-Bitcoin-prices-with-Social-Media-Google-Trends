@@ -1,6 +1,9 @@
 # Predicting-Bitcoin-prices-with-Social-Media-Google-Trends
 
 <img src="result2.png" alt="drawing" width="400"/> 
+<style>
+{text-align: center;}
+</style>
 
 * Cryptocurrency is a medium of exchange, just like the Indian Rupee, but is digital and uses encryption to control and verify the creation of monetary units and transfer of funds. With the Bitcoin market capitalization over 700 billion dollars, it is increasingly popular on platforms like Twitter which is used as a news source influencing purchase decision of its users.
 
